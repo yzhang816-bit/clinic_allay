@@ -7,8 +7,6 @@ Codebase for the paper "ClinicAlly: Integrating Causal Representation Learning w
 - `run_experiments_v3.py`: Experiment runner for benchmarking.
 - `optimize_clinically.py`: Script for optimizing ensemble weights.
 - `fetch_dataset.py`: Utilities for handling the MIMIC-IV dataset.
-- `v3.tex`: LaTeX source of the paper.
-- `update_v3_tex.py`: Helper script to update results in the paper automatically.
 
 ## Usage
 1. Download MIMIC-IV demo data.
